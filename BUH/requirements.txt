@@ -1,0 +1,2 @@
+fake-useragent==0.1.11
+fake_user_agent==2.1.8
